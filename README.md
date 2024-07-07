@@ -12,8 +12,8 @@
 
 ## Connect With Me:
 https://www.linkedin.com/in/nanditha-j-k-268880246/
+https://www.naukri.com/mnjuser/profile
+https://medium.com/@nandithajkj1999
 
-
-
-Languages and Tools:
-python--v1 mysql-logo microsoft-excel-2019--v1 pandas numpy power-bi-2021 tableau-software folder-invoices-3--v3
+## Languages and Tools:
+python, sql, numpy, pandas, seaborn, matplotlib, excel, power bi, tableau, web scrapping
