@@ -11,11 +11,10 @@
 
 
 ## Connect With Me:
-https://www.linkedin.com/in/nanditha-j-k-268880246/
+[LinkedIn](https://www.linkedin.com/in/nanditha-j-k-268880246/)
+[Naukri](https://www.naukri.com/mnjuser/profile)
+[medium](https://medium.com/@nandithajkj1999)
 
-https://www.naukri.com/mnjuser/profile
-
-https://medium.com/@nandithajkj1999
 
 ## Languages and Tools:
 ### python, sql, numpy, pandas, seaborn, matplotlib, excel, power bi, tableau, web scrapping
